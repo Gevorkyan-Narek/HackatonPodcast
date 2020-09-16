@@ -3,4 +3,18 @@
     <string name="add_first_podcast">Добавьте первый подкаст</string>
     <string name="add_edit_and_share_your_podcast">Добавляйте, редактируйте и делитесь подкастами вашего сообщества.</string>
     <string name="add_podcast">Добавить подкаст</string>
+    <string name="new_podcast">Новый подкаст</string>
+    <string name="name">Название</string>
+    <string name="enter_podcast_name">Введите название подкаста</string>
+    <string name="podcast_description">Описание подкаста</string>
+    <string name="load_podcast">Загрузите ваш подкаст</string>
+    <string name="choose_ready_audio">Выберите готовый аудиофайл из вашего телефона и добавьте его</string>
+    <string name="load_file">Загрузите файл</string>
+    <string name="inappropriate_content">Ненормативный контент</string>
+    <string name="exclude_episode">Исключить эпизод из экспорта</string>
+    <string name="trailer_podcast">Трейлер подкаста</string>
+    <string name="who_is_available">Кому доступен данный подкаст</string>
+    <string name="all_users">Всем пользователям</string>
+    <string name="become_available">При публикации записи с эпизодом, он становится доступным для всех пользователей</string>
+    <string name="next">Далее</string>
 </resources>
