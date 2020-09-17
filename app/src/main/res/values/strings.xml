@@ -17,4 +17,23 @@
     <string name="all_users">Всем пользователям</string>
     <string name="become_available">При публикации записи с эпизодом, он становится доступным для всех пользователей</string>
     <string name="next">Далее</string>
+    <string name="podcast_beautiful_guys">Подкаст прекрасных людей</string>
+    <string name="double_dogs">ПараDogs</string>
+    <string name="duration_59_16">Длительность: 59:16</string>
+    <string name="description">Описание</string>
+    <string name="description_podcast">Подкаст, который рассказывает про то, как много в мире прекрасных вещей, которые можно совершить, а также сколько людей, которые могут помочь вам в реализации ваших заветных мечт.</string>
+    <string name="content">Содержание</string>
+    <string name="_05_41">05:41</string>
+    <string name="_15_23">15:23</string>
+    <string name="_25_37">25:37</string>
+    <string name="_43_15">43:15</string>
+    <string name="_47_00">47:00</string>
+    <string name="_58_00">58:00</string>
+    <string name="firstTimeCode">— Начало обсуждения</string>
+    <string name="secondTimeCode">— Основная тема подкаста</string>
+    <string name="thirdTimeCode">— Разговор с гостем</string>
+    <string name="fourthTimeCode">— Рекламная интеграция</string>
+    <string name="fifthTimeCode">— Вопросы от зрителей</string>
+    <string name="sixthTimeCode">— Подведение итогов розыгрыша</string>
+    <string name="publish_podcast">Опубликовать подкаст</string>
 </resources>
