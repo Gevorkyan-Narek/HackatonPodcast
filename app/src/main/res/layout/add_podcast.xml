@@ -3,8 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:layout_height="match_parent">
 
     <ImageButton
         android:id="@+id/dismiss"
@@ -33,7 +32,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_done"
+            android:src="@drawable/ic_add"
             tools:ignore="ContentDescription" />
 
         <TextView
@@ -41,7 +40,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="@string/podcast_added" />
+            android:text="@string/add_first_podcast" />
 
         <TextView
             style="@style/SecondaryTextStyle"
@@ -51,16 +50,17 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
             android:gravity="center"
-            android:text="@string/share_with_your_subscribers" />
+            android:text="@string/add_edit_and_share_your_podcast" />
 
         <Button
+            android:id="@+id/addPodcast"
             style="@style/Button"
             android:layout_width="wrap_content"
             android:layout_height="36dp"
             android:layout_marginTop="24dp"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
-            android:text="@string/share_podcast" />
+            android:text="@string/add_podcast" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

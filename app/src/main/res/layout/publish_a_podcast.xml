@@ -221,7 +221,7 @@
         app:layout_constraintTop_toTopOf="@id/timeCodeSixth" />
 
     <Button
-        android:id="@+id/nextButton"
+        android:id="@+id/publishPodcast"
         style="@style/Button"
         android:layout_width="match_parent"
         android:layout_height="44dp"

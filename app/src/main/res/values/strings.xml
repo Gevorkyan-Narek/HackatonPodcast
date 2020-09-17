@@ -39,4 +39,8 @@
     <string name="podcast_added">Подкаст добавлен</string>
     <string name="share_with_your_subscribers"><![CDATA[Раскажите своим подписчикам о новом подкасте, чтобы получить больше слушателей.]]></string>
     <string name="share_podcast">Поделиться подкастом</string>
+    <string name="edit">Редактирование</string>
+    <string name="TIMECODES">ТАЙМКОДЫ</string>
+    <string name="add_timecode">Добавить таймкод</string>
+    <string name="hint_audio">Отметки времени с названием темы. Позволяют слушателям легче путешествовать по подкасту.</string>
 </resources>
