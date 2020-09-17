@@ -25,7 +25,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_add"
+            android:src="@drawable/ic_done"
             tools:ignore="ContentDescription" />
 
         <TextView
@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="@string/add_first_podcast" />
+            android:text="@string/podcast_added" />
 
         <TextView
             style="@style/SecondaryTextStyle"
@@ -43,7 +43,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
             android:gravity="center"
-            android:text="@string/add_edit_and_share_your_podcast" />
+            android:text="@string/share_with_your_subscribers" />
 
         <Button
             style="@style/Button"
@@ -52,7 +52,7 @@
             android:layout_marginTop="24dp"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
-            android:text="@string/add_podcast" />
+            android:text="@string/share_podcast" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

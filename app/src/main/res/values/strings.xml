@@ -36,4 +36,7 @@
     <string name="fifthTimeCode">— Вопросы от зрителей</string>
     <string name="sixthTimeCode">— Подведение итогов розыгрыша</string>
     <string name="publish_podcast">Опубликовать подкаст</string>
+    <string name="podcast_added">Подкаст добавлен</string>
+    <string name="share_with_your_subscribers"><![CDATA[Раскажите своим подписчикам о новом подкасте, чтобы получить больше слушателей.]]></string>
+    <string name="share_podcast">Поделиться подкастом</string>
 </resources>
